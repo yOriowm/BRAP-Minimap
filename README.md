@@ -1,2 +1,2 @@
 # BRAP-Minimap
-BR Minimap for PixelCanvas.io
+Discord.io/BREP
