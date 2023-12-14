@@ -118,13 +118,6 @@
     "width": 525,
     "height": 462
    },
-  "Cruzeiro": {
-    "name": "Cruzeiro.png",
-    "x": 4207,
-    "y": -1220,
-    "width": 1371,
-    "height": 625
-   },
   "55Chan": {
     "name": "55chan_-1476_774.png",
     "x": -1476,
@@ -139,13 +132,6 @@
     "width": 1228,
     "height": 700
    },
-  "BrCentroFull": {
-    "name": "TerritorioBRCENTRO_-69_-869.png",
-    "x": -69,
-    "y": -869,
-    "width": 951,
-    "height": 874
-   },
   "pikachu": {
     "name": "pikachu.png",
     "x": 2220,
@@ -159,20 +145,6 @@
     "y": -621,
     "width": 989,
     "height": 609
-   },
-  "cmm": {
-    "name": "unknown-43-1.png",
-    "x": -671,
-    "y": -689,
-    "width": 432,
-    "height": 222
-   },
-  "myster": {
-    "name": "myster.png",
-    "x": 14,
-    "y": -1029,
-    "width": 156,
-    "height": 156
    },
   "SPPIXEL": {
     "name": "sppixel.png",
@@ -230,13 +202,6 @@
     "width": 180,
     "height": 171
              },
-  "BRAzinha": {
-    "name": "BRAzinha.png",
-    "x": 161,
-    "y": -863,
-    "width": 65,
-    "height": 39
-                 },
   "FireS": {
     "name": "FireS.png",
     "x": 64,
@@ -264,13 +229,6 @@
     "y": -30,
     "width": 358,
     "height": 303
-                           },
-  "SP1": {
-    "name": "SP1.png",
-    "x": 1310,
-    "y": -1213,
-    "width": 168,
-    "height": 133
                            },
  "BRTR": {
     "name": "BRTR.png",
@@ -300,13 +258,6 @@
     "width": 263,
     "height": 179
                                },
- "skool": {
-    "name": "skool.png",
-    "x": 1591,
-    "y": -2233,
-    "width": 184,
-    "height": 300
-                                 },
  "intercanvas": {
     "name": "intercanvas.png",
     "x": 950,
@@ -314,13 +265,6 @@
     "width": 548,
     "height": 182
                                          },
- "niikcanvas": {
-    "name": "niikcanvasDESATIVADA.png",
-    "x": 465,
-    "y": -315,
-    "width": 86,
-    "height": 45
-                                           },
  "vep": {
     "name": "vep.png",
     "x": 277,
@@ -342,20 +286,6 @@
     "width": 605,
     "height": 492
                                                },
- "vascocanvas": {
-    "name": "vascocanvas_DESATIV.png",
-    "x": 217,
-    "y": -985,
-    "width": 293,
-    "height": 116
-                                                },
- "InterCanvas2": {
-    "name": "InterCanvas20000.png",
-    "x": 1173,
-    "y": -1272,
-    "width": 98,
-    "height": 79
-                                                    },
 "peru": {
     "name": "peru.png",
     "x": 134,
