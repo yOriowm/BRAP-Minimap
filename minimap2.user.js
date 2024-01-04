@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BRAP Minimap teste
+// @name         BRAP Minimap 2.0
 // @namespace    BRAP Minimap teste
 // @version      2.0.0
 // @description  Minimap Oficial BRAP
