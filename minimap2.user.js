@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BRAP Minimap 2.0
-// @namespace    BRAP Minimap teste
+// @namespace    BRAP Minimap 2.0
 // @version      2.0.0
 // @description  Minimap Oficial BRAP
 // @author       yOriowm#2260
