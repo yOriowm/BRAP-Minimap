@@ -286,6 +286,13 @@
     "width": 594,
     "height": 492
                                              },
+ "spcentro": {
+    "name": "spbase.png",
+    "x": 174,
+    "y": 9085,
+    "width": 321,
+    "height": 413
+                                             },
  "BRFcanvas 2": {
     "name": "BRFcanvas_910_-1274.png",
     "x": 910,
