@@ -293,6 +293,13 @@
     "width": 321,
     "height": 413
                                              },
+ "facboard": {
+    "name": "facboard.png",
+    "x": 437,
+    "y":  10235,
+    "width": 176,
+    "height": 176
+                                             },
  "BRFcanvas 2": {
     "name": "BRFcanvas_910_-1274.png",
     "x": 910,
