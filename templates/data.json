@@ -327,5 +327,12 @@
     "y": 6662,
     "width": 1513,
     "height": 5
+                                             },
+"minibr": {
+    "name": "minibr.png",
+    "x": 1256,
+    "y": 6606,
+    "width": 91,
+    "height": 55
 }
 }
