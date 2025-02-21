@@ -341,5 +341,12 @@
     "y": 6010,
     "width": 7,
     "height": 657
+},
+"mova": {
+    "name": "mova.png",
+    "x": 1202,
+    "y": 9443,
+    "width": 889,
+    "height": 271
 }
 }
