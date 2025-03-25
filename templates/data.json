@@ -341,12 +341,19 @@
     "y": 6010,
     "width": 7,
     "height": 657
-},
+                                            },
 "mova": {
     "name": "mova.png",
     "x": 1202,
     "y": 9443,
     "width": 889,
     "height": 279
+},
+"jesus": {
+    "name": "jesus.png",
+    "x": 747,
+    "y": 10702,
+    "width": 104,
+    "height": 164
 }
 }
