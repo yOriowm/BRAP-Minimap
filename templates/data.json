@@ -355,5 +355,12 @@
     "y": 10702,
     "width": 104,
     "height": 164
+},
+"BRcentro": {
+    "name": "BRcentro.png",
+    "x": -20,
+    "y": 9936,
+    "width": 92,
+    "height": 64
 }
 }
