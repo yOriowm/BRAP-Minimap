@@ -1,95 +1,109 @@
 {
-  "Kraken Space": {
-    "name": "kraken-1.png",
-    "x": -6641,
-    "y": -2770,
-    "width": 402,
-    "height": 385
-   },
   "BrCentroNovo": {
     "name": "1br_centro_full.png",
     "x": -30,
     "y": 8826,
     "width": 1425,
     "height": 1052
+    },
+"mova": {
+    "name": "mova.png",
+    "x": 1202,
+    "y": 9443,
+    "width": 890,
+    "height": 279
+    },
+  "mainIT": {
+    "name": "IT1.png",
+    "x": 1000,
+    "y": 0,
+    "width": 332,
+    "height": 292
    },
+  "Kraken Space": {
+    "name": "kraken-1.png",
+    "x": -6641,
+    "y": -2770,
+    "width": 402,
+    "height": 385
+     },
   "SP BR Final": {
     "name": "3543_-590_sp_br.png",
     "x": 3541,
     "y": -591,
     "width": 42,
     "height": 144
-   },
+      },
   "KuruVult": {
     "name": "kuruvult.png",
     "x": 2327,
     "y": -605,
     "width": 227,
     "height": 142
-   },
+      },
   "brvoid2": {
     "name": "brvoid2.png",
     "x": 217,
     "y": -985,
     "width": 293,
     "height": 116
-   },
+      },
   "55Chan": {
     "name": "55chan_-1476_774.png",
     "x": -1476,
     "y": 774,
     "width": 165,
     "height": 177
-   },
+      },
   "BrCentroFull": {
     "name": "TerritorioBRCENTRO_-69_-869.png",
     "x": -120,
     "y": -985,
     "width": 1003,
     "height": 990
-   },
+       },
   "pikachu": {
     "name": "pikachu.png",
     "x": 2220,
     "y": -635,
     "width": 107,
     "height": 136
-   },
+        },
   "BR2": {
     "name": "BR2.png",
     "x": 2554,
     "y": -621,
     "width": 989,
     "height": 609
-   },
+         },
   "Barril_space": {
     "name": "Barril_space.png",
     "x": 1343,
     "y": 71,
     "width": 23,
     "height": 39
-   },
+         },
   "Base_centro": {
     "name": "Base_centro.png",
     "x": 484,
     "y": -174,
     "width": 478,
     "height": 324
-   },
+         },
   "BASE2": {
     "name": "BASE2.png",
     "x": -6937,
     "y": -3146,
     "width": 801,
     "height": 801
-     },
+         },
   "hbe_imperial": {
     "name": "hbe_imperial.png",
     "x": 1516,
     "y": -1324,
     "width": 1196,
     "height": 715
-         },
+          },
   "InterOne": {
     "name": "InterOne.png",
     "x": 3981,
@@ -103,133 +117,126 @@
     "y": -772,
     "width": 138,
     "height": 42
-                   },
+                },
   "IT2": {
     "name": "IT2.png",
     "x": 1366,
     "y": -30,
     "width": 358,
     "height": 303
-                           },
+                     },
  "BRTR": {
     "name": "BRTR.png",
     "x": -205,
     "y": -2192,
     "width": 1227,
     "height": 726 
-                            },
+                        },
  "zeca": {
     "name": "zeca.png",
     "x": 9750,
     "y": -570,
     "width": 137,
     "height": 232
-                             },
+                           },
  "br1": {
     "name": "br1.png",
     "x": 9846,
     "y": -583,
     "width": 394,
     "height": 229 
-                             },
+                               },
  "carro": {
     "name": "carro.png",
     "x": 10108,
     "y": -527,
     "width": 263,
     "height": 179
-                               },
+                                  },
  "intercanvas": {
     "name": "intercanvas.png",
     "x": 950,
     "y": -1516,
     "width": 548,
     "height": 182
-                                         },
+                                    },
  "vep": {
     "name": "vep.png",
     "x": 277,
     "y": -511,
     "width": 138,
     "height": 78
-                                             },
+                                      },
  "flucanvas": {
     "name": "flucanvas.png",
     "x": 505,
     "y": -1274,
     "width": 594,
     "height": 492
-                                             },
+                                       },
  "spcentro": {
     "name": "spbase.png",
     "x": 174,
     "y": 9085,
     "width": 321,
     "height": 413
-                                             },
+                                         },
  "facboard": {
     "name": "facboard.png",
     "x": 437,
     "y":  10235,
     "width": 176,
     "height": 176
-                                             },
+                                           },
  "BRFcanvas 2": {
     "name": "BRFcanvas_910_-1274.png",
     "x": 910,
     "y": -1274,
     "width": 605,
     "height": 492
-                                               },
+                                             },
 "peru": {
     "name": "peru.png",
     "x": 80,
     "y": 10112,
     "width": 399,
     "height": 457
-                                             },
+                                              },
 "linha1": {
     "name": "parte1.png",
     "x": 1168,
     "y": 6662,
     "width": 274,
     "height": 2269
-                                              },
+                                                },
 "linha2": {
     "name": "parte2.png",
     "x": 1273,
     "y": 6662,
     "width": 1513,
     "height": 5
-                                             },
+                                                  },
 "minibr": {
     "name": "minibr.png",
     "x": 1256,
     "y": 6606,
     "width": 91,
     "height": 55
-                                            },
+                                                  },
 "parte3": {
     "name": "parte3.png",
     "x": 2779,
     "y": 6010,
     "width": 7,
     "height": 657
-                                            },
-"mova": {
-    "name": "mova.png",
-    "x": 1202,
-    "y": 9443,
-    "width": 890,
-    "height": 279
-},
+                                                   },
 "jesus": {
     "name": "jesus.png",
     "x": 747,
     "y": 10702,
     "width": 104,
     "height": 164
-},
+                                                   },
 "BRcentro": {
     "name": "BRcentro.png",
     "x": -20,
