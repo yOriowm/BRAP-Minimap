@@ -1,10 +1,10 @@
 {
-  "Main Fla": {
-    "name": "mainfla.png",
-    "x": 1976,
-    "y": -2571,
-    "width": 1362,
-    "height": 808
+  "Kraken Space": {
+    "name": "kraken-1.png",
+    "x": -6641,
+    "y": -2770,
+    "width": 402,
+    "height": 385
    },
   "Space Centro 2": {
     "name": "SpaceCanvas_LinkNewCenter.png",
@@ -12,13 +12,6 @@
     "y": 9145,
     "width": 286,
     "height": 286
-   },
-  "Kraken Space": {
-    "name": "kraken-1.png",
-    "x": -6641,
-    "y": -2770,
-    "width": 402,
-    "height": 385
    },
   "BrCentroNovo": {
     "name": "1br_centro_full.png",
@@ -41,20 +34,6 @@
     "width": 227,
     "height": 142
    },
-  "Gremio7": {
-    "name": "Gremio7.png",
-    "x": -1794,
-    "y": -2042,
-    "width": 1355,
-    "height": 850
-   },
-  "Galo1": {
-    "name": "Galo1.png",
-    "x": 3015,
-    "y": -600,
-    "width": 346,
-    "height": 73
-   },
   "brvoid2": {
     "name": "brvoid2.png",
     "x": 217,
@@ -62,75 +41,12 @@
     "width": 293,
     "height": 116
    },
-  "GremioM": {
-    "name": "GremioM.png",
-    "x": -3540,
-    "y": -1056,
-    "width": 583,
-    "height": 350
-   },
-  "GremioB2": {
-    "name": "GremioB2.png",
-    "x": -3344,
-    "y": -1810,
-    "width": 626,
-    "height": 752
-   },
-  "GremioB1": {
-    "name": "GremioB1.png",
-    "x": -3970,
-    "y": -1810,
-    "width": 626,
-    "height": 752
-   },
-  "Gremio6": {
-    "name": "Gremio6.png",
-    "x": -4412,
-    "y": -1460,
-    "width": 442,
-    "height": 254
-   },
-  "Gremio5": {
-    "name": "Gremio5.png",
-    "x": -9,
-    "y": -1274,
-    "width": 368,
-    "height": 240
-   },
-  "Gremio4": {
-    "name": "Gremio4.png",
-    "x": -439,
-    "y": -1751,
-    "width": 237,
-    "height": 417
-   },
-  "Gremio2": {
-    "name": "Gremio2.png",
-    "x": -1295,
-    "y": -1215,
-    "width": 762,
-    "height": 403
-   },
-  "Gremio1": {
-    "name": "Gremio1.png",
-    "x": -533,
-    "y": -1274,
-    "width": 525,
-    "height": 462
-   },
   "55Chan": {
     "name": "55chan_-1476_774.png",
     "x": -1476,
     "y": 774,
     "width": 165,
     "height": 177
-   },
-  "BC": {
-    "name": "BCcanvas.png",
-    "x": 1137,
-    "y": -606,
-    "width": 1228,
-    "height": 700
    },
   "BrCentroFull": {
     "name": "TerritorioBRCENTRO_-69_-869.png",
@@ -152,20 +68,6 @@
     "y": -621,
     "width": 989,
     "height": 609
-   },
-  "SPPIXEL": {
-    "name": "sppixel.png",
-    "x": 3938,
-    "y": -562,
-    "width": 364,
-    "height": 92
-   },
-  "SPInd": {
-    "name": "spfcIndependente.png",
-    "x": 3589,
-    "y": -514,
-    "width": 473,
-    "height": 473
    },
   "Barril_space": {
     "name": "Barril_space.png",
@@ -195,13 +97,6 @@
     "width": 1196,
     "height": 715
          },
-  "autumn": {
-    "name": "autumn.png",
-    "x": -6112,
-    "y": -3819,
-    "width": 1742,
-    "height": 648
-           },
   "InterOne": {
     "name": "InterOne.png",
     "x": 3981,
@@ -216,20 +111,6 @@
     "width": 138,
     "height": 42
                    },
-  "FireS2": {
-    "name": "FireS2.png",
-    "x": 925,
-    "y": 2613,
-    "width": 112,
-    "height": 147
-                         },
-  "IT Nova": {
-    "name": "IT2_993_-1.png",
-    "x": 993,
-    "y": -1,
-    "width": 350,
-    "height": 300
-                         },
   "IT2": {
     "name": "IT2.png",
     "x": 1366,
@@ -237,7 +118,14 @@
     "width": 358,
     "height": 303
                            },
- "BRTR": {
+  "IT1": {
+    "name": "IT2.png",
+    "x": 1000,
+    "y": 0,
+    "width": 332,
+    "height": 292
+                           },
+  "BRTR": {
     "name": "BRTR.png",
     "x": -205,
     "y": -2192,
@@ -348,14 +236,14 @@
     "y": 9443,
     "width": 890,
     "height": 279
-},
+                                            },
 "jesus": {
     "name": "jesus.png",
     "x": 747,
     "y": 10702,
     "width": 104,
     "height": 164
-},
+                                              },
 "BRcentro": {
     "name": "BRcentro.png",
     "x": -20,
