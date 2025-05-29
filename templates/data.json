@@ -223,6 +223,13 @@
     "width": 104,
     "height": 164
                                               },
+"god": {
+    "name": "god.png",
+    "x": -1641,
+    "y": 10290,
+    "width": 392,
+    "height": 405
+                                              },
 "BRcentro": {
     "name": "BRcentro.png",
     "x": -20,
